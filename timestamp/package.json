@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1"
+  },
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "timestamp microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mowabanga/backend_certification.git"
+  },
+  "keywords": [
+    "APIs",
+    "node",
+    "express"
+  ],
+  "author": "mowabanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mowabanga/backend_certification/issues"
+  },
+  "homepage": "https://github.com/mowabanga/backend_certification#readme"
+}
